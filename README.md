@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RabidTunes
+- 👀 I’m interested in 3D modelling, music and general gamedev
+- 💞️ I’m looking to collaborate on gamedev projects
